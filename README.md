@@ -4,7 +4,7 @@
 https://gianniii.github.io/EthicalGame-BuildYourDrone/
 
 ### Link to project report:
-https://drive.google.com/file/d/112SxC60h9MuUlFHludM9IZPF__tZYvBV/view?usp=share_link
+https://drive.google.com/file/d/12tdPJpN-V7Cc5UN_6hgVoTO1_y_lAfAd/view?usp=share_link
 
 ### Link to the code
 https://github.com/Gianniii/EthicalGame_Build-your-Drone_Code
